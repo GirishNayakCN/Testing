@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-28T23:39:15 IST" name="Suite" finished-at="2021-10-28T23:39:22 IST" duration-ms="7063">
+    <groups>
+    </groups>
+    <test started-at="2021-10-28T23:39:15 IST" name="Test" finished-at="2021-10-28T23:39:22 IST" duration-ms="7063">
+      <class name="test.BlazeDemoPage">
+        <test-method signature="blazeDemo()[pri:0, instance:test.BlazeDemoPage@14555e0a]" started-at="2021-10-28T23:39:15 IST" name="blazeDemo" finished-at="2021-10-28T23:39:22 IST" duration-ms="7025" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blazeDemo -->
+      </class> <!-- test.BlazeDemoPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
